@@ -12,3 +12,7 @@ datagroup: parks_and_rec_default_datagroup {
 }
 
 persist_with: parks_and_rec_default_datagroup
+
+explore: Activities{}
+explore: campsites {}
+explore: facilities {}
